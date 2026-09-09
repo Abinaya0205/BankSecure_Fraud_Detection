@@ -145,7 +145,8 @@ Report generation
 
 🎥 Demo
 Add your deployed Streamlit application link here.
-Live Demo: https://banksecurefrauddetection-x8aecruox8d7mge3zrn2q2.streamlit.app/
+Live Demo: 
+https://banksecurefrauddetection-x8aecruox8d7mge3zrn2q2.streamlit.app/
 
 
 🔮 Future Enhancements
@@ -158,7 +159,6 @@ Model performance comparison
 Database integration
 User authentication
 Transaction history tracking
-Email/SMS fraud alerts
 Cloud deployment
 Explainable AI for prediction reasoning
 
